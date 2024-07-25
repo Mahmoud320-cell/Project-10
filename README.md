@@ -8,7 +8,6 @@ fun main (){
         Hello,
         My Name is Mahmoud
         How are you?
-  """      
-    
+  """     
     println(message)
 }
